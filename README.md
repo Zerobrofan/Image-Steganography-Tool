@@ -16,7 +16,7 @@ To use the image steganography tool, follow these steps:
 2. **Afterwards, run the `SteganographyApp.exe` file in the `bin\Debug\net8.0-windows` directorty.**
 3. **Select an image to encode, a file prompt'll appear to choose an image, afterwards a box should appear where you'll be entering your message.**
 4. **You can also decode the image, which should display the text encoded within.**
-5. Enjoy !
+5. **Enjoy ❤ !**
 
 ---
 
