@@ -23,5 +23,6 @@ To use the image steganography tool, follow these steps:
 Made as a coursework project for the Intro to Cybersecurity course. 🎓<br>
 Made by:<br>
 Abdallah Amir Monir Shafik - 221101049<br>
+Abdelrahman Ahmed Sayed - 221101047<br>
 Ahmed Abed Haseeb - 221101029<br>
 Yousef Mosbah Abdelwadod Hagag - 221101068
